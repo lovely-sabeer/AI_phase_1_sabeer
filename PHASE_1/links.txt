@@ -1,3 +1,0 @@
-Data set link: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset 
-
-Source Code link: https://www.kaggle.com/code/pubgcalling/ai-sabeer-1
